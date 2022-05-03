@@ -1,0 +1,20 @@
+.fa-instagram:hover {
+    color: rgb(255, 0, 0);
+}
+ 
+.fa-linkedin:hover {
+    color: rgb(0, 47, 255);
+}
+ 
+.fa-facebook:hover {
+    color: rgb(4, 0, 255);
+}
+ 
+.fa-github:hover {
+    color: black;
+}
+ 
+.fa-twitter:hover {
+    color: rgb(0, 132, 255);
+}
+ 
